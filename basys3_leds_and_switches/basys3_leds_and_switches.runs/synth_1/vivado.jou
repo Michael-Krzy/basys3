@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2.1 (64-bit)
+# SW Build 3414424 on Sun Dec 19 10:57:22 MST 2021
+# IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+# Start of session at: Thu Oct 13 20:39:44 2022
+# Process ID: 21708
+# Current directory: C:/Users/Michael/basys3/basys3_leds_and_switches/basys3_leds_and_switches.runs/synth_1
+# Command line: vivado.exe -log sw_and_leds.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sw_and_leds.tcl
+# Log file: C:/Users/Michael/basys3/basys3_leds_and_switches/basys3_leds_and_switches.runs/synth_1/sw_and_leds.vds
+# Journal file: C:/Users/Michael/basys3/basys3_leds_and_switches/basys3_leds_and_switches.runs/synth_1\vivado.jou
+# Running On: DESKTOP-1N4MNDH, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 17068 MB
+#-----------------------------------------------------------
+source sw_and_leds.tcl -notrace
